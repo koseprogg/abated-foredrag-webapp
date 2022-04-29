@@ -1,5 +1,7 @@
 # AbaTed talks! En webapp for å salme talks
 
+Les vår [Contribution template](https://github.com/koseprogg/abated-foredrag-webapp/blob/main/CONTRIBUTING.md) før du begynner.
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
