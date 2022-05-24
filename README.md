@@ -29,3 +29,5 @@ npm start
 ```
 
 Now you'll need to pick a host to deploy it to.
+
+[![Powered by ](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://vercel.com?utm_source=koseprogg&utm_campaign=oss)

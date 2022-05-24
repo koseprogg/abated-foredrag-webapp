@@ -47,13 +47,13 @@ const Videos: React.FC = () => {
 
 const Index = () => {
   return (
-    <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
+    <main style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
       <Wrapper>
         <Header />
         <Videos />
         <Footer />
       </Wrapper>
-    </div>
+    </main>
   );
 };
 

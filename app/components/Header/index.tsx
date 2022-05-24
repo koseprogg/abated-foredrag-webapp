@@ -1,6 +1,6 @@
 import styles from "styled-components";
 
 const Header = () => {
-  return <div>AbaTed</div>;
+  return <header>AbaTed</header>;
 };
 export default Header;
